@@ -44,7 +44,7 @@ public class CS1702_Lab2
 		//z = name/g; Cannot divide a word
 		
 		//Question 7
-		//z = c/g; 
+		//z = c/g; Cannot convert from double to string
 
 		//Question 8
 		x = 10;
@@ -66,7 +66,7 @@ public class CS1702_Lab2
 		System.out.println(y);
 		
 		//Question 13
-		// Math.pow(x,2) = Math.pow(y,2) + Math.pow(z,2); 
+		// Math.pow(x,2) = Math.pow(y,2) + Math.pow(z,2); Cannot have a string to the power of something
 		
 		//Question 14
 		//name = "Is " + f - h; Can't subtract a string thats not there
